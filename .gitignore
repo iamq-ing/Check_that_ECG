@@ -1,0 +1,8 @@
+data/raw/Physionet dataset/
+data/processed/
+
+venv/
+.venv/
+.streamlit/secrets.toml
+.env
+__pycache__/

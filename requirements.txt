@@ -1,0 +1,12 @@
+
+numpy==1.26.4
+scipy==1.13.1
+pandas==2.2.3
+wfdb==4.2.0
+scikit-learn==1.5.2
+matplotlib==3.9.2
+pyarrow==17.0.0
+torch
+streamlit
+joblib
+tqdm
